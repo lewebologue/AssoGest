@@ -1,0 +1,7 @@
+{
+  "name": "AssoGest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
